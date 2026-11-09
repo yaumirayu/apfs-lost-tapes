@@ -22,6 +22,9 @@ GitHub Pages поддерживает запросы диапазонов.
 
 ## Публикация
 
+Опубликовано и проверено: https://yaumirayu.github.io/apfs-lost-tapes/
+88/88 публичных MP3 прошли воспроизведение, перемотку и проверку SHA-256.
+
 Публиковать MP3 только после подтверждения владельцем права на распространение.
 GitHub Pages: Settings → Pages → Deploy from a branch → main → /(root).
 После разрешения и при настроенной авторизации: `git push origin main`.

@@ -1,0 +1,535 @@
+{
+  "date": "2026-11-09T06:18:45.235Z",
+  "base": "https://yaumirayu.github.io/apfs-lost-tapes/",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+  "tracks": [
+    {
+      "path": "assets/audio/ep01-01.mp3",
+      "duration": 99.723515,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/ep01-02.mp3",
+      "duration": 138.619841,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/ep01-03.mp3",
+      "duration": 113.699025,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/ep01-04.mp3",
+      "duration": 156.05551,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/ep01-05.mp3",
+      "duration": 209.475918,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/ep01-06.mp3",
+      "duration": 153.32678,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb01-01.mp3",
+      "duration": 210.7178,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb01-02.mp3",
+      "duration": 162.626372,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb01-03.mp3",
+      "duration": 249.248413,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb01-04.mp3",
+      "duration": 170.07127,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb01-05.mp3",
+      "duration": 247.080249,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb01-06.mp3",
+      "duration": 394.802698,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb01-07.mp3",
+      "duration": 184.725964,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb01-08.mp3",
+      "duration": 237.049229,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb01-09.mp3",
+      "duration": 220.409229,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb01-10.mp3",
+      "duration": 255.582041,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/ep02-01.mp3",
+      "duration": 158.769229,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/ep02-02.mp3",
+      "duration": 139.649048,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/ep02-03.mp3",
+      "duration": 156,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/ep02-04.mp3",
+      "duration": 111.692313,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb02-01.mp3",
+      "duration": 160.846145,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb02-02.mp3",
+      "duration": 188.307687,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb02-03.mp3",
+      "duration": 150.461542,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb02-04.mp3",
+      "duration": 158.769229,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb02-05.mp3",
+      "duration": 117.230771,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb02-06.mp3",
+      "duration": 102,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb02-07.mp3",
+      "duration": 122.043265,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb02-08.mp3",
+      "duration": 192,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb02-09.mp3",
+      "duration": 149.307687,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb02-10.mp3",
+      "duration": 156.346145,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb02-11.mp3",
+      "duration": 131.538458,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb02-12.mp3",
+      "duration": 209.307687,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb02-13.mp3",
+      "duration": 110.192313,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb02-14.mp3",
+      "duration": 164.769229,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb02-15.mp3",
+      "duration": 237.923084,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb02-16.mp3",
+      "duration": 126.230771,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb02-17.mp3",
+      "duration": 81.230771,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb02-18.mp3",
+      "duration": 265.846145,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb02-19.mp3",
+      "duration": 123.230771,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb02-20.mp3",
+      "duration": 166.153855,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb02-21.mp3",
+      "duration": 189.230771,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb02-22.mp3",
+      "duration": 151.846145,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb02-23.mp3",
+      "duration": 234.461542,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb02-24.mp3",
+      "duration": 192.923084,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb02-25.mp3",
+      "duration": 120.461542,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb02-26.mp3",
+      "duration": 210.461542,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb02-27.mp3",
+      "duration": 294.346145,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb02-28.mp3",
+      "duration": 258.461542,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb02-29.mp3",
+      "duration": 121.889433,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb02-30.mp3",
+      "duration": 267.230771,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb02-31.mp3",
+      "duration": 92.538458,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb03-01.mp3",
+      "duration": 192.461542,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb03-02.mp3",
+      "duration": 166.153855,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb03-03.mp3",
+      "duration": 199.384626,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb03-04.mp3",
+      "duration": 211.30288,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb03-05.mp3",
+      "duration": 174,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb03-06.mp3",
+      "duration": 206.769229,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb03-07.mp3",
+      "duration": 145.846145,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb03-08.mp3",
+      "duration": 163.153855,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb03-09.mp3",
+      "duration": 220.615374,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb03-10.mp3",
+      "duration": 116.076916,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb03-11.mp3",
+      "duration": 163.615374,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb03-12.mp3",
+      "duration": 140.307687,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb03-13.mp3",
+      "duration": 200.307687,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb03-14.mp3",
+      "duration": 171.692313,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb03-15.mp3",
+      "duration": 222.461542,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb03-16.mp3",
+      "duration": 168.692313,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb03-17.mp3",
+      "duration": 132.923084,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb03-18.mp3",
+      "duration": 186.461542,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb03-19.mp3",
+      "duration": 249.230771,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb04-01.mp3",
+      "duration": 128.628005,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb04-02.mp3",
+      "duration": 141.480249,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb04-03.mp3",
+      "duration": 175.648413,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb04-04.mp3",
+      "duration": 84.716168,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb04-05.mp3",
+      "duration": 114.939841,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb04-06.mp3",
+      "duration": 204.017392,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb04-07.mp3",
+      "duration": 84.036984,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb04-08.mp3",
+      "duration": 135.8378,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb04-09.mp3",
+      "duration": 145.868821,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb04-10.mp3",
+      "duration": 120.948005,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb04-11.mp3",
+      "duration": 119.093311,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb04-12.mp3",
+      "duration": 227.109637,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb04-13.mp3",
+      "duration": 120.033719,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb04-14.mp3",
+      "duration": 295.759433,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb04-15.mp3",
+      "duration": 123.952086,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb04-16.mp3",
+      "duration": 212.324331,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb04-17.mp3",
+      "duration": 164.337392,
+      "ok": true,
+      "seek": true
+    },
+    {
+      "path": "assets/audio/alb04-18.mp3",
+      "duration": 118.179025,
+      "ok": true,
+      "seek": true
+    }
+  ]
+}
