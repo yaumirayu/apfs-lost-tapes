@@ -1,0 +1,4 @@
+*.zip
+*.bat
+__pycache__/
+qa-results.json

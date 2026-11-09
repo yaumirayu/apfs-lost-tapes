@@ -1,0 +1,904 @@
+{
+  "date": "2026-11-09T05:57:07.611Z",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+  "tracks": [
+    {
+      "id": "ep01-01",
+      "ok": true,
+      "duration": 99.723515,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 4397807,
+      "energy": 207.47269991374873
+    },
+    {
+      "id": "ep01-02",
+      "ok": true,
+      "duration": 138.619841,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 6113135,
+      "energy": 1286.1567837878545
+    },
+    {
+      "id": "ep01-03",
+      "ok": true,
+      "duration": 113.699025,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 5014127,
+      "energy": 486.6985851436289
+    },
+    {
+      "id": "ep01-04",
+      "ok": true,
+      "duration": 156.05551,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 6881519,
+      "energy": 1452.0421667468488
+    },
+    {
+      "id": "ep01-05",
+      "ok": true,
+      "duration": 209.475918,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 9237359,
+      "energy": 1700.9170606480996
+    },
+    {
+      "id": "ep01-06",
+      "ok": true,
+      "duration": 153.32678,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 6761711,
+      "energy": 487.94792950851644
+    },
+    {
+      "id": "alb01-01",
+      "ok": true,
+      "duration": 210.7178,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 9292655,
+      "energy": 1518.3606989234966
+    },
+    {
+      "id": "alb01-02",
+      "ok": true,
+      "duration": 162.626372,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 7171823,
+      "energy": 2142.535713852905
+    },
+    {
+      "id": "alb01-03",
+      "ok": true,
+      "duration": 249.248413,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 10991855,
+      "energy": 1721.4963345025424
+    },
+    {
+      "id": "alb01-04",
+      "ok": true,
+      "duration": 170.07127,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 7500143,
+      "energy": 678.9005721157359
+    },
+    {
+      "id": "alb01-05",
+      "ok": true,
+      "duration": 247.080249,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 10896239,
+      "energy": 1755.1210487076146
+    },
+    {
+      "id": "alb01-06",
+      "ok": true,
+      "duration": 394.802698,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 17410799,
+      "energy": 3683.14584968215
+    },
+    {
+      "id": "alb01-07",
+      "ok": true,
+      "duration": 184.725964,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 8146415,
+      "energy": 2913.8056334326343
+    },
+    {
+      "id": "alb01-08",
+      "ok": true,
+      "duration": 237.049229,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 10453871,
+      "energy": 2075.864015169061
+    },
+    {
+      "id": "alb01-09",
+      "ok": true,
+      "duration": 220.409229,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 9720047,
+      "energy": 2640.3840735749045
+    },
+    {
+      "id": "alb01-10",
+      "ok": true,
+      "duration": 255.582041,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 11270639,
+      "energy": 3191.958910310407
+    },
+    {
+      "id": "ep02-01",
+      "ok": true,
+      "duration": 158.769229,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 7001723,
+      "energy": 952.7081144340426
+    },
+    {
+      "id": "ep02-02",
+      "ok": true,
+      "duration": 139.649048,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 6158523,
+      "energy": 447.317700084478
+    },
+    {
+      "id": "ep02-03",
+      "ok": true,
+      "duration": 156,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 6879600,
+      "energy": 523.6504196716368
+    },
+    {
+      "id": "ep02-04",
+      "ok": true,
+      "duration": 111.692313,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 4925631,
+      "energy": 887.6712382985198
+    },
+    {
+      "id": "alb02-01",
+      "ok": true,
+      "duration": 160.846145,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 7093315,
+      "energy": 1948.1040853870418
+    },
+    {
+      "id": "alb02-02",
+      "ok": true,
+      "duration": 188.307687,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 8304369,
+      "energy": 4507.511358396092
+    },
+    {
+      "id": "alb02-03",
+      "ok": true,
+      "duration": 150.461542,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 6635354,
+      "energy": 1217.6555562847968
+    },
+    {
+      "id": "alb02-04",
+      "ok": true,
+      "duration": 158.769229,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 7001723,
+      "energy": 3026.071809423181
+    },
+    {
+      "id": "alb02-05",
+      "ok": true,
+      "duration": 117.230771,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 5169877,
+      "energy": 4118.68122046073
+    },
+    {
+      "id": "alb02-06",
+      "ok": true,
+      "duration": 102,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 4498200,
+      "energy": 1809.3393911988508
+    },
+    {
+      "id": "alb02-07",
+      "ok": true,
+      "duration": 122.043265,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 5382108,
+      "energy": 1346.2566756141505
+    },
+    {
+      "id": "alb02-08",
+      "ok": true,
+      "duration": 192,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 8467200,
+      "energy": 2704.361569979252
+    },
+    {
+      "id": "alb02-09",
+      "ok": true,
+      "duration": 149.307687,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 6584469,
+      "energy": 318.1865114721717
+    },
+    {
+      "id": "alb02-10",
+      "ok": true,
+      "duration": 156.346145,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 6894865,
+      "energy": 1193.871207306975
+    },
+    {
+      "id": "alb02-11",
+      "ok": true,
+      "duration": 131.538458,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 5800846,
+      "energy": 1812.3060343101913
+    },
+    {
+      "id": "alb02-12",
+      "ok": true,
+      "duration": 209.307687,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 9230469,
+      "energy": 1670.8340021976785
+    },
+    {
+      "id": "alb02-13",
+      "ok": true,
+      "duration": 110.192313,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 4859481,
+      "energy": 918.5140951401535
+    },
+    {
+      "id": "alb02-14",
+      "ok": true,
+      "duration": 164.769229,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 7266323,
+      "energy": 5303.77179015117
+    },
+    {
+      "id": "alb02-15",
+      "ok": true,
+      "duration": 237.923084,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 10492408,
+      "energy": 2673.185437778455
+    },
+    {
+      "id": "alb02-16",
+      "ok": true,
+      "duration": 126.230771,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 5566777,
+      "energy": 1954.0439376176957
+    },
+    {
+      "id": "alb02-17",
+      "ok": true,
+      "duration": 81.230771,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 3582277,
+      "energy": 137.1223914152917
+    },
+    {
+      "id": "alb02-18",
+      "ok": true,
+      "duration": 265.846145,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 11723815,
+      "energy": 1031.160303143395
+    },
+    {
+      "id": "alb02-19",
+      "ok": true,
+      "duration": 123.230771,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 5434477,
+      "energy": 1418.9068713002648
+    },
+    {
+      "id": "alb02-20",
+      "ok": true,
+      "duration": 166.153855,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 7327385,
+      "energy": 433.434678405672
+    },
+    {
+      "id": "alb02-21",
+      "ok": true,
+      "duration": 189.230771,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 8345077,
+      "energy": 4510.9975222093435
+    },
+    {
+      "id": "alb02-22",
+      "ok": true,
+      "duration": 151.846145,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 6696415,
+      "energy": 2921.0791257025053
+    },
+    {
+      "id": "alb02-23",
+      "ok": true,
+      "duration": 234.461542,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 10339754,
+      "energy": 1876.9896156046843
+    },
+    {
+      "id": "alb02-24",
+      "ok": true,
+      "duration": 192.923084,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 8507908,
+      "energy": 2013.79675638748
+    },
+    {
+      "id": "alb02-25",
+      "ok": true,
+      "duration": 120.461542,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 5312354,
+      "energy": 853.5331522277088
+    },
+    {
+      "id": "alb02-26",
+      "ok": true,
+      "duration": 210.461542,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 9281354,
+      "energy": 1450.8001124562716
+    },
+    {
+      "id": "alb02-27",
+      "ok": true,
+      "duration": 294.346145,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 12980665,
+      "energy": 5137.125153397684
+    },
+    {
+      "id": "alb02-28",
+      "ok": true,
+      "duration": 258.461542,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 11398154,
+      "energy": 3475.0215987433953
+    },
+    {
+      "id": "alb02-29",
+      "ok": true,
+      "duration": 121.889433,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 5375324,
+      "energy": 2809.1441835613637
+    },
+    {
+      "id": "alb02-30",
+      "ok": true,
+      "duration": 267.230771,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 11784877,
+      "energy": 9182.314862308238
+    },
+    {
+      "id": "alb02-31",
+      "ok": true,
+      "duration": 92.538458,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 4080946,
+      "energy": 1611.2192125361819
+    },
+    {
+      "id": "alb03-01",
+      "ok": true,
+      "duration": 192.461542,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 8487554,
+      "energy": 4007.9624915060413
+    },
+    {
+      "id": "alb03-02",
+      "ok": true,
+      "duration": 166.153855,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 7327385,
+      "energy": 318.63548236311436
+    },
+    {
+      "id": "alb03-03",
+      "ok": true,
+      "duration": 199.384626,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 8792862,
+      "energy": 3805.0517475636943
+    },
+    {
+      "id": "alb03-04",
+      "ok": true,
+      "duration": 211.30288,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 9318457,
+      "energy": 2556.7998025838706
+    },
+    {
+      "id": "alb03-05",
+      "ok": true,
+      "duration": 174,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 7673400,
+      "energy": 2824.368181778271
+    },
+    {
+      "id": "alb03-06",
+      "ok": true,
+      "duration": 206.769229,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 9118523,
+      "energy": 3906.9997369138505
+    },
+    {
+      "id": "alb03-07",
+      "ok": true,
+      "duration": 145.846145,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 6431815,
+      "energy": 2122.549218301515
+    },
+    {
+      "id": "alb03-08",
+      "ok": true,
+      "duration": 163.153855,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 7195085,
+      "energy": 2342.9449403083177
+    },
+    {
+      "id": "alb03-09",
+      "ok": true,
+      "duration": 220.615374,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 9729138,
+      "energy": 16059.68651040717
+    },
+    {
+      "id": "alb03-10",
+      "ok": true,
+      "duration": 116.076916,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 5118992,
+      "energy": 2166.9195394696294
+    },
+    {
+      "id": "alb03-11",
+      "ok": true,
+      "duration": 163.615374,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 7215438,
+      "energy": 2164.2251660617762
+    },
+    {
+      "id": "alb03-12",
+      "ok": true,
+      "duration": 140.307687,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 6187569,
+      "energy": 1431.4805917069102
+    },
+    {
+      "id": "alb03-13",
+      "ok": true,
+      "duration": 200.307687,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 8833569,
+      "energy": 3999.448029247569
+    },
+    {
+      "id": "alb03-14",
+      "ok": true,
+      "duration": 171.692313,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 7571631,
+      "energy": 2121.1109127984837
+    },
+    {
+      "id": "alb03-15",
+      "ok": true,
+      "duration": 222.461542,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 9810554,
+      "energy": 711.6905665155265
+    },
+    {
+      "id": "alb03-16",
+      "ok": true,
+      "duration": 168.692313,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 7439331,
+      "energy": 2957.4200325268143
+    },
+    {
+      "id": "alb03-17",
+      "ok": true,
+      "duration": 132.923084,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 5861908,
+      "energy": 931.0189084814117
+    },
+    {
+      "id": "alb03-18",
+      "ok": true,
+      "duration": 186.461542,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 8222954,
+      "energy": 2821.543357536539
+    },
+    {
+      "id": "alb03-19",
+      "ok": true,
+      "duration": 249.230771,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 10991077,
+      "energy": 5949.032046744865
+    },
+    {
+      "id": "alb04-01",
+      "ok": true,
+      "duration": 128.628005,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 5672495,
+      "energy": 158.4260338300652
+    },
+    {
+      "id": "alb04-02",
+      "ok": true,
+      "duration": 141.480249,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 6239279,
+      "energy": 231.08693233634415
+    },
+    {
+      "id": "alb04-03",
+      "ok": true,
+      "duration": 175.648413,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 7746095,
+      "energy": 269.8589640398742
+    },
+    {
+      "id": "alb04-04",
+      "ok": true,
+      "duration": 84.716168,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 3735983,
+      "energy": 1852.8254427332186
+    },
+    {
+      "id": "alb04-05",
+      "ok": true,
+      "duration": 114.939841,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 5068847,
+      "energy": 2537.141888955434
+    },
+    {
+      "id": "alb04-06",
+      "ok": true,
+      "duration": 204.017392,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 8997167,
+      "energy": 3277.279562295584
+    },
+    {
+      "id": "alb04-07",
+      "ok": true,
+      "duration": 84.036984,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 3706031,
+      "energy": 2632.5945574682696
+    },
+    {
+      "id": "alb04-08",
+      "ok": true,
+      "duration": 135.8378,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 5990447,
+      "energy": 1154.812654157812
+    },
+    {
+      "id": "alb04-09",
+      "ok": true,
+      "duration": 145.868821,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 6432815,
+      "energy": 268.5785504113298
+    },
+    {
+      "id": "alb04-10",
+      "ok": true,
+      "duration": 120.948005,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 5333807,
+      "energy": 3484.397009047082
+    },
+    {
+      "id": "alb04-11",
+      "ok": true,
+      "duration": 119.093311,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 5252015,
+      "energy": 707.0055956702837
+    },
+    {
+      "id": "alb04-12",
+      "ok": true,
+      "duration": 227.109637,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 10015535,
+      "energy": 912.7741603207917
+    },
+    {
+      "id": "alb04-13",
+      "ok": true,
+      "duration": 120.033719,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 5293487,
+      "energy": 936.0596708061286
+    },
+    {
+      "id": "alb04-14",
+      "ok": true,
+      "duration": 295.759433,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 13042991,
+      "energy": 4909.294103590263
+    },
+    {
+      "id": "alb04-15",
+      "ok": true,
+      "duration": 123.952086,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 5466287,
+      "energy": 1286.5561532128363
+    },
+    {
+      "id": "alb04-16",
+      "ok": true,
+      "duration": 212.324331,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 9363503,
+      "energy": 1518.9865691461355
+    },
+    {
+      "id": "alb04-17",
+      "ok": true,
+      "duration": 164.337392,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 7247279,
+      "energy": 2179.253724470224
+    },
+    {
+      "id": "alb04-18",
+      "ok": true,
+      "duration": 118.179025,
+      "seek": true,
+      "fullDecode": true,
+      "samples": 5211695,
+      "energy": 1437.546101000398
+    }
+  ],
+  "checks": [
+    {
+      "name": "pause",
+      "ok": true,
+      "details": ""
+    },
+    {
+      "name": "resume",
+      "ok": true,
+      "details": ""
+    },
+    {
+      "name": "next",
+      "ok": true,
+      "details": ""
+    },
+    {
+      "name": "previous",
+      "ok": true,
+      "details": ""
+    },
+    {
+      "name": "seek-control",
+      "ok": true,
+      "details": ""
+    },
+    {
+      "name": "volume",
+      "ok": true,
+      "details": ""
+    },
+    {
+      "name": "mute",
+      "ok": true,
+      "details": ""
+    },
+    {
+      "name": "unmute",
+      "ok": true,
+      "details": ""
+    },
+    {
+      "name": "shuffle",
+      "ok": true,
+      "details": ""
+    },
+    {
+      "name": "repeat-one",
+      "ok": true,
+      "details": ""
+    },
+    {
+      "name": "repeat-off",
+      "ok": true,
+      "details": ""
+    },
+    {
+      "name": "repeat-all",
+      "ok": true,
+      "details": ""
+    },
+    {
+      "name": "search-single-result",
+      "ok": true,
+      "details": ""
+    },
+    {
+      "name": "favorite-toggle",
+      "ok": true,
+      "details": ""
+    },
+    {
+      "name": "covers",
+      "ok": true,
+      "details": ""
+    },
+    {
+      "name": "layout-390",
+      "ok": true,
+      "details": {
+        "scrollWidth": 375,
+        "viewport": 390
+      }
+    },
+    {
+      "name": "layout-768",
+      "ok": true,
+      "details": {
+        "scrollWidth": 753,
+        "viewport": 768
+      }
+    },
+    {
+      "name": "layout-1440",
+      "ok": true,
+      "details": {
+        "scrollWidth": 1425,
+        "viewport": 1440
+      }
+    },
+    {
+      "name": "track-count",
+      "ok": true,
+      "details": ""
+    }
+  ]
+}

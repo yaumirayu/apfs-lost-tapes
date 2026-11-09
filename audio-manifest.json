@@ -1,0 +1,530 @@
+[
+  {
+    "path": "assets/audio/ep01-01.mp3",
+    "bytes": 2639025,
+    "sha256": "f3afc1d832ce02cb27df66cebdfbf90548654ef181336ebc94ff473fe26785ed",
+    "archive": "01_Krugosvetka_EP.zip"
+  },
+  {
+    "path": "assets/audio/ep01-02.mp3",
+    "bytes": 3572940,
+    "sha256": "d3b42a04b0abde2a6a586bb94f40e56d18d9d2dba690efaabad43253759e3125",
+    "archive": "01_Krugosvetka_EP.zip"
+  },
+  {
+    "path": "assets/audio/ep01-03.mp3",
+    "bytes": 2971955,
+    "sha256": "05660b789c6fbf6dcf27f0a70252535329ddbaf3d90ddf4bb11178f48213080e",
+    "archive": "01_Krugosvetka_EP.zip"
+  },
+  {
+    "path": "assets/audio/ep01-04.mp3",
+    "bytes": 6487551,
+    "sha256": "c2ddcac09d41774e03250b3b841ff004df08f605d6fb720e2f7f7a4ad4991722",
+    "archive": "01_Krugosvetka_EP.zip"
+  },
+  {
+    "path": "assets/audio/ep01-05.mp3",
+    "bytes": 5272877,
+    "sha256": "1792e70765c0cba3b9a776b8558bb30cb94bcdcf6d40f5975af24e5042c1a651",
+    "archive": "01_Krugosvetka_EP.zip"
+  },
+  {
+    "path": "assets/audio/ep01-06.mp3",
+    "bytes": 3926010,
+    "sha256": "d1231fa6e7f1aba75bc5377de80d8da7b42164aa88a6b2a0ed709cbc65a5ec3f",
+    "archive": "01_Krugosvetka_EP.zip"
+  },
+  {
+    "path": "assets/audio/alb01-01.mp3",
+    "bytes": 5138667,
+    "sha256": "0d5ec1519ade5912a26fa7cfbd69ed4f67031d846ea4322f43cb27062c0441d4",
+    "archive": "02_Sobachiy_Valss.zip"
+  },
+  {
+    "path": "assets/audio/alb01-02.mp3",
+    "bytes": 3984679,
+    "sha256": "b32974396a860cea406c837ee73b01eda46d6fc2c0ccf13a527e7db20105dfe8",
+    "archive": "02_Sobachiy_Valss.zip"
+  },
+  {
+    "path": "assets/audio/alb01-03.mp3",
+    "bytes": 6065618,
+    "sha256": "b2f44540b47f5ee82b6b1e8f70178491ddb7f880ac4813f0ae41f8d7875ecdbf",
+    "archive": "02_Sobachiy_Valss.zip"
+  },
+  {
+    "path": "assets/audio/alb01-04.mp3",
+    "bytes": 4163421,
+    "sha256": "b673985344f2f81bd26b727c2efdaacec105ed3777ba1a8243bfed11bddfb434",
+    "archive": "02_Sobachiy_Valss.zip"
+  },
+  {
+    "path": "assets/audio/alb01-05.mp3",
+    "bytes": 6011920,
+    "sha256": "e044f07dcb9ed9756a603afa15b1ecbf9ce2eedc601dfd4218c4d83724fb22c6",
+    "archive": "02_Sobachiy_Valss.zip"
+  },
+  {
+    "path": "assets/audio/alb01-06.mp3",
+    "bytes": 9561324,
+    "sha256": "cbf0b56bbbe6fd1413c1c0503b7274a4959205734d9290b8cc9b2f6bbf693c16",
+    "archive": "02_Sobachiy_Valss.zip"
+  },
+  {
+    "path": "assets/audio/alb01-07.mp3",
+    "bytes": 4513781,
+    "sha256": "90c48b0ff5bb74157506e8d5f56a6ba62fe2d882d8250251eaaeb1c1abe5c948",
+    "archive": "02_Sobachiy_Valss.zip"
+  },
+  {
+    "path": "assets/audio/alb01-08.mp3",
+    "bytes": 5773200,
+    "sha256": "cbb091ac97fe6ce6fd203714888dff3f062100b6db6d49cdc19820d9cd832a08",
+    "archive": "02_Sobachiy_Valss.zip"
+  },
+  {
+    "path": "assets/audio/alb01-09.mp3",
+    "bytes": 5370231,
+    "sha256": "44a79362a5b8e181ea53d0b8e86abd4e5df053d0d5c503f531abd653c2ce6704",
+    "archive": "02_Sobachiy_Valss.zip"
+  },
+  {
+    "path": "assets/audio/alb01-10.mp3",
+    "bytes": 6214285,
+    "sha256": "b95b93b29500a4ead2ee1cdad05a258155f157934c4275f33202f8d42a6f25e3",
+    "archive": "02_Sobachiy_Valss.zip"
+  },
+  {
+    "path": "assets/audio/ep02-01.mp3",
+    "bytes": 6431958,
+    "sha256": "bc9b417cf9f05385d26d105cbdb62a912469d01943dda4fa08a14f9e89e1aeef",
+    "archive": "03_Laitovo_EP.zip"
+  },
+  {
+    "path": "assets/audio/ep02-02.mp3",
+    "bytes": 5666590,
+    "sha256": "ed8bb4da6d23319fd5c2400a759964b13cca7cbe2627580a004a2f4a115e550a",
+    "archive": "03_Laitovo_EP.zip"
+  },
+  {
+    "path": "assets/audio/ep02-03.mp3",
+    "bytes": 6321740,
+    "sha256": "c9feb1072c158ab1139a9d1ab22f073c70338828249deea0d2f556dc97a3d2f4",
+    "archive": "03_Laitovo_EP.zip"
+  },
+  {
+    "path": "assets/audio/ep02-04.mp3",
+    "bytes": 4550927,
+    "sha256": "81dc647adca3c062835f5978782d699bf0cc0256df4af063610f8cda10f416e4",
+    "archive": "03_Laitovo_EP.zip"
+  },
+  {
+    "path": "assets/audio/alb02-01.mp3",
+    "bytes": 6560993,
+    "sha256": "21f81f4120bee6d8d4dee1e61c103c90cd773c41a2c953fcd9c1eb0611cfad33",
+    "archive": "04_Opianarium_01-08.zip"
+  },
+  {
+    "path": "assets/audio/alb02-02.mp3",
+    "bytes": 7658008,
+    "sha256": "40a61647f47aef11fe89db483887451bd449ec06f19d4d7db8d15b881c4a16c0",
+    "archive": "04_Opianarium_01-08.zip"
+  },
+  {
+    "path": "assets/audio/alb02-03.mp3",
+    "bytes": 6143935,
+    "sha256": "d52aaf39139acb5ed96473e251044fdf16058cabae141746fa53c2e251798e65",
+    "archive": "04_Opianarium_01-08.zip"
+  },
+  {
+    "path": "assets/audio/alb02-04.mp3",
+    "bytes": 6476186,
+    "sha256": "51c35ca65a33e956e2cc4d773adf347c4635e53d1b08103e64154abb608051c6",
+    "archive": "04_Opianarium_01-08.zip"
+  },
+  {
+    "path": "assets/audio/alb02-05.mp3",
+    "bytes": 4814031,
+    "sha256": "f7300a483bf3feb1b320441dd33a09b9c9444e5ac33294ed08968d77bac844f7",
+    "archive": "04_Opianarium_01-08.zip"
+  },
+  {
+    "path": "assets/audio/alb02-06.mp3",
+    "bytes": 4205523,
+    "sha256": "e524e542cf6b67edfd74479190abbe44df7c899fbdf73aad102451aa615bf641",
+    "archive": "04_Opianarium_01-08.zip"
+  },
+  {
+    "path": "assets/audio/alb02-07.mp3",
+    "bytes": 5007026,
+    "sha256": "d2538c05afcabf48a8e34ea4ef75bc930a040518c50782cd5030533ea53408eb",
+    "archive": "04_Opianarium_01-08.zip"
+  },
+  {
+    "path": "assets/audio/alb02-08.mp3",
+    "bytes": 7806338,
+    "sha256": "cbdd1add577cee09fd9fcb14778d92ee0be6bac15b5baa4a13350b1d83160ab2",
+    "archive": "04_Opianarium_01-08.zip"
+  },
+  {
+    "path": "assets/audio/alb02-09.mp3",
+    "bytes": 6098525,
+    "sha256": "a4eef844ed8a247cf7010612f45d182f951a8ee518e73f36244ed06c2e7a8c86",
+    "archive": "05_Opianarium_09-16.zip"
+  },
+  {
+    "path": "assets/audio/alb02-10.mp3",
+    "bytes": 6378120,
+    "sha256": "60a27a42772724795e2682cbbe310d501d565252c6c8ecac8d8028a43a9fe2aa",
+    "archive": "05_Opianarium_09-16.zip"
+  },
+  {
+    "path": "assets/audio/alb02-11.mp3",
+    "bytes": 5385493,
+    "sha256": "d29abcc4f682158092b52080eca845a3a655daa10acaaab2c7fe575a75cf456b",
+    "archive": "05_Opianarium_09-16.zip"
+  },
+  {
+    "path": "assets/audio/alb02-12.mp3",
+    "bytes": 8496136,
+    "sha256": "d5731771795fbac0e03a85dd99c77056d22e17313db6dc66911d1f3586e66e5f",
+    "archive": "05_Opianarium_09-16.zip"
+  },
+  {
+    "path": "assets/audio/alb02-13.mp3",
+    "bytes": 4534492,
+    "sha256": "f6b7f49ff9c38862889e24ac297ffb29be59702a948a531ab4edc27dbf70e312",
+    "archive": "05_Opianarium_09-16.zip"
+  },
+  {
+    "path": "assets/audio/alb02-14.mp3",
+    "bytes": 6714587,
+    "sha256": "6ef349f8654ce74518e7d36097a18e10ecc61ef4790fc1fc7047503b462429f5",
+    "archive": "05_Opianarium_09-16.zip"
+  },
+  {
+    "path": "assets/audio/alb02-15.mp3",
+    "bytes": 9642964,
+    "sha256": "ecdb2f171d466fbe06b21549301965e730de779cd060a0cb160c055843b89d10",
+    "archive": "05_Opianarium_09-16.zip"
+  },
+  {
+    "path": "assets/audio/alb02-16.mp3",
+    "bytes": 5174649,
+    "sha256": "a76b02cee06afb25fd7e2fc69cb4e39cb4a15465b87648ff359479fc89663a65",
+    "archive": "05_Opianarium_09-16.zip"
+  },
+  {
+    "path": "assets/audio/alb02-17.mp3",
+    "bytes": 3376106,
+    "sha256": "3e8d2e55b8995659f3bbbc2024177c64f5785f8041dc45cb6d1b99e326403dc9",
+    "archive": "06_Opianarium_17-24.zip"
+  },
+  {
+    "path": "assets/audio/alb02-18.mp3",
+    "bytes": 10757345,
+    "sha256": "e79312e5255d3bb4ab059eb5e855eab5a308a350302aeb6cffdb7313e79ffd26",
+    "archive": "06_Opianarium_17-24.zip"
+  },
+  {
+    "path": "assets/audio/alb02-19.mp3",
+    "bytes": 5053215,
+    "sha256": "3cdfb38e74913c746205c3359668cc7eb177409537bc2d39d58a44c208db517f",
+    "archive": "06_Opianarium_17-24.zip"
+  },
+  {
+    "path": "assets/audio/alb02-20.mp3",
+    "bytes": 6769966,
+    "sha256": "f9e7fb7c1a5ebce4fb58f1bff7960accc3bbb099d78ef8d3d931f6178bf1ad4b",
+    "archive": "06_Opianarium_17-24.zip"
+  },
+  {
+    "path": "assets/audio/alb02-21.mp3",
+    "bytes": 7692631,
+    "sha256": "f3f462f0faf57053f341ae0dc03b172f7c49ed1f8e6f72ea3ff6ce386381ac12",
+    "archive": "06_Opianarium_17-24.zip"
+  },
+  {
+    "path": "assets/audio/alb02-22.mp3",
+    "bytes": 6199807,
+    "sha256": "70ac0cf512e172876cbbe2fa708ed8c080b80ebfda53b888ed67a5a21ba24a1a",
+    "archive": "06_Opianarium_17-24.zip"
+  },
+  {
+    "path": "assets/audio/alb02-23.mp3",
+    "bytes": 9502377,
+    "sha256": "4fe2e1c9631dacd9a912acd4871063cc7adb398b66512f7d73da77b81c2a7d77",
+    "archive": "06_Opianarium_17-24.zip"
+  },
+  {
+    "path": "assets/audio/alb02-24.mp3",
+    "bytes": 7845154,
+    "sha256": "8dfe818f67e78105026ed13a16e76897b833522335f504e3c2321819dc67a216",
+    "archive": "06_Opianarium_17-24.zip"
+  },
+  {
+    "path": "assets/audio/alb02-25.mp3",
+    "bytes": 4942450,
+    "sha256": "ca33947026086a44f729da9e83850246bc45b26f78f9d384abb90f9c054abee5",
+    "archive": "07_Opianarium_25-31.zip"
+  },
+  {
+    "path": "assets/audio/alb02-26.mp3",
+    "bytes": 8542119,
+    "sha256": "1e2b2fe12f44c7637cf0a1a49430fef7134a8840532fdaf15eb24ae341ad9651",
+    "archive": "07_Opianarium_25-31.zip"
+  },
+  {
+    "path": "assets/audio/alb02-27.mp3",
+    "bytes": 11898428,
+    "sha256": "ae5b6d5e826e74aeef5bb1867b761daba7b626bc2c065fa775bb2c2b567a9d44",
+    "archive": "07_Opianarium_25-31.zip"
+  },
+  {
+    "path": "assets/audio/alb02-28.mp3",
+    "bytes": 10462636,
+    "sha256": "fc8d5722926a20b3919f7539484eda2bb4a950195af815dbdedd65a71cd94f8d",
+    "archive": "07_Opianarium_25-31.zip"
+  },
+  {
+    "path": "assets/audio/alb02-29.mp3",
+    "bytes": 4999917,
+    "sha256": "ccef9ce6c6556a120c089d67ac8e7bd42083f93ab4d317864984c5b3cf5b00e0",
+    "archive": "07_Opianarium_25-31.zip"
+  },
+  {
+    "path": "assets/audio/alb02-30.mp3",
+    "bytes": 10812705,
+    "sha256": "a5edc4eb9e3c4ab90d1f782a0bc9f3c0cde7c7dc17aedf3424f7609216c7a90e",
+    "archive": "07_Opianarium_25-31.zip"
+  },
+  {
+    "path": "assets/audio/alb02-31.mp3",
+    "bytes": 3825450,
+    "sha256": "7dbf2a7ca12832c88e5afa43130a32fe134da66e7cf7e0c5a3176493cdf13db2",
+    "archive": "07_Opianarium_25-31.zip"
+  },
+  {
+    "path": "assets/audio/alb03-01.mp3",
+    "bytes": 7904023,
+    "sha256": "a3bd9f6b3f008760068349b2f48084865b6075a9b8cca54de3332b4d777c3f94",
+    "archive": "08_Dvizhenie_01-07.zip"
+  },
+  {
+    "path": "assets/audio/alb03-02.mp3",
+    "bytes": 6851769,
+    "sha256": "f0830c87eb3b1e6cfbb13630f8d4e9b7073d98f402d5b19945d3af8227919578",
+    "archive": "08_Dvizhenie_01-07.zip"
+  },
+  {
+    "path": "assets/audio/alb03-03.mp3",
+    "bytes": 8184175,
+    "sha256": "2874f1393b049b803a0ed2ff10097b62ff96ca96f0bd97ce8258c342f5c201ff",
+    "archive": "08_Dvizhenie_01-07.zip"
+  },
+  {
+    "path": "assets/audio/alb03-04.mp3",
+    "bytes": 8657362,
+    "sha256": "ceee5f6c1d33d18487cd6cd6452291d46651c7e317e3f51b7c190d589eeffd63",
+    "archive": "08_Dvizhenie_01-07.zip"
+  },
+  {
+    "path": "assets/audio/alb03-05.mp3",
+    "bytes": 7165236,
+    "sha256": "cf67b27744b4ddafe11831ee161bcb8dcdcbec15b21e5ea4e4ef730f0c1b2f26",
+    "archive": "08_Dvizhenie_01-07.zip"
+  },
+  {
+    "path": "assets/audio/alb03-06.mp3",
+    "bytes": 8476613,
+    "sha256": "07c78aa3e3e2fb92ecaf04bb66e236ba781ad6b2b3aedfcf5ccf9ce728b8b671",
+    "archive": "08_Dvizhenie_01-07.zip"
+  },
+  {
+    "path": "assets/audio/alb03-07.mp3",
+    "bytes": 6039927,
+    "sha256": "c6028bb31147ca53416bdd24ba4a18d3e572c3f65029186f9eeb02dfc069434a",
+    "archive": "08_Dvizhenie_01-07.zip"
+  },
+  {
+    "path": "assets/audio/alb03-08.mp3",
+    "bytes": 6731616,
+    "sha256": "d28a76fb0782c2352989ecb5650b514db638b9aadef4b588394e120d46708f75",
+    "archive": "09_Dvizhenie_08-13.zip"
+  },
+  {
+    "path": "assets/audio/alb03-09.mp3",
+    "bytes": 9030394,
+    "sha256": "fb1d08c963e9dd1afd9562c88fcf39aadea283ebeed76eedf8abe48038b52dbb",
+    "archive": "09_Dvizhenie_08-13.zip"
+  },
+  {
+    "path": "assets/audio/alb03-10.mp3",
+    "bytes": 4848706,
+    "sha256": "13f26460b6b653f306807fb28c46cd32dbe0c079fde859b9edcbbb895f02888d",
+    "archive": "09_Dvizhenie_08-13.zip"
+  },
+  {
+    "path": "assets/audio/alb03-11.mp3",
+    "bytes": 6750452,
+    "sha256": "3e8289db60df1f178c728821007f15842b7a937479d9b9641adf65369feee741",
+    "archive": "09_Dvizhenie_08-13.zip"
+  },
+  {
+    "path": "assets/audio/alb03-12.mp3",
+    "bytes": 5820646,
+    "sha256": "f7702dcd18bd41530ff9b28e92b18d48a5d510a6f5e56f02b8af45888c872966",
+    "archive": "09_Dvizhenie_08-13.zip"
+  },
+  {
+    "path": "assets/audio/alb03-13.mp3",
+    "bytes": 8218502,
+    "sha256": "2acdce9c3a42524c63e4f5ceff66179a4d63ea0c6b4c4e7864ed2201ce0bfa2d",
+    "archive": "09_Dvizhenie_08-13.zip"
+  },
+  {
+    "path": "assets/audio/alb03-14.mp3",
+    "bytes": 7076511,
+    "sha256": "2d9d7534850cb72e2da3ad59bc1ec7d4e187215031770afce95c6332b1178470",
+    "archive": "10_Dvizhenie_14-19.zip"
+  },
+  {
+    "path": "assets/audio/alb03-15.mp3",
+    "bytes": 9104590,
+    "sha256": "1b2bca47157c72d22beff0b987cd6992639d7bcdc93a40fe3e1f8ab58c9d9a30",
+    "archive": "10_Dvizhenie_14-19.zip"
+  },
+  {
+    "path": "assets/audio/alb03-16.mp3",
+    "bytes": 6953141,
+    "sha256": "37d88c93bfac447be3a7ccd479c340b84ef99c9c7181383f4dda0cc85c6ef735",
+    "archive": "10_Dvizhenie_14-19.zip"
+  },
+  {
+    "path": "assets/audio/alb03-17.mp3",
+    "bytes": 5522658,
+    "sha256": "543d66591f7025119e2b15e3042a9d0c56d3bfe5276038ce05ceb9ebcf7dc177",
+    "archive": "10_Dvizhenie_14-19.zip"
+  },
+  {
+    "path": "assets/audio/alb03-18.mp3",
+    "bytes": 7663680,
+    "sha256": "143454f94e42172ee301705d54d7802c18059a94f217f97ff8e4e1572ac785b9",
+    "archive": "10_Dvizhenie_14-19.zip"
+  },
+  {
+    "path": "assets/audio/alb03-19.mp3",
+    "bytes": 10174567,
+    "sha256": "f5feb49b04836673df8de25c330b123df38068500395ace366495c72066abe42",
+    "archive": "10_Dvizhenie_14-19.zip"
+  },
+  {
+    "path": "assets/audio/alb04-01.mp3",
+    "bytes": 5330960,
+    "sha256": "12eb0a225841aed2719cb95f36d946691e9331d324ada1e26fb1230a7e35186a",
+    "archive": "11_NeZabiray_01-09.zip"
+  },
+  {
+    "path": "assets/audio/alb04-02.mp3",
+    "bytes": 5845039,
+    "sha256": "7430bd8c9aaa0c29b667eb7d13db830b8a3dc9958cfd3c2bb6af9acc4cf55b07",
+    "archive": "11_NeZabiray_01-09.zip"
+  },
+  {
+    "path": "assets/audio/alb04-03.mp3",
+    "bytes": 7211787,
+    "sha256": "308c30eaa78dcce9e53c603c85bb79008bb9a8685f51dce9c21067b49980a4ff",
+    "archive": "11_NeZabiray_01-09.zip"
+  },
+  {
+    "path": "assets/audio/alb04-04.mp3",
+    "bytes": 3574481,
+    "sha256": "6efa08a31efa38451fab8e0d1d904669693ce53d1dc1679e99ee2edba8f7e7d1",
+    "archive": "11_NeZabiray_01-09.zip"
+  },
+  {
+    "path": "assets/audio/alb04-05.mp3",
+    "bytes": 4783440,
+    "sha256": "44602c680051c186ca2ccd2c4c8d3cf7cc53b1a01a66548435f171668d114f83",
+    "archive": "11_NeZabiray_01-09.zip"
+  },
+  {
+    "path": "assets/audio/alb04-06.mp3",
+    "bytes": 8346523,
+    "sha256": "693de8c883f34ea438ba92ba6c7bfbd8adc43c85f59897bc3e528aa3b2932be3",
+    "archive": "11_NeZabiray_01-09.zip"
+  },
+  {
+    "path": "assets/audio/alb04-07.mp3",
+    "bytes": 3547305,
+    "sha256": "dc418b1391dbffc18a98478d9fca1a3ea084ecc3057c56c2a15a1022cf07809a",
+    "archive": "11_NeZabiray_01-09.zip"
+  },
+  {
+    "path": "assets/audio/alb04-08.mp3",
+    "bytes": 5619339,
+    "sha256": "fd893413a7865e99ccb0a6ded437840a4589510be3ab267aa09b70048188f60d",
+    "archive": "11_NeZabiray_01-09.zip"
+  },
+  {
+    "path": "assets/audio/alb04-09.mp3",
+    "bytes": 6020589,
+    "sha256": "b9d4ddd510e94982b89369df3e0c0cd58acbe3099677f7bd7ffa644126174c63",
+    "archive": "11_NeZabiray_01-09.zip"
+  },
+  {
+    "path": "assets/audio/alb04-10.mp3",
+    "bytes": 5023757,
+    "sha256": "b9599b360781612e20291d65b43f53658df3635fee9459f801e19d8508ccf17f",
+    "archive": "12_NeZabiray_10-18.zip"
+  },
+  {
+    "path": "assets/audio/alb04-11.mp3",
+    "bytes": 4949571,
+    "sha256": "7a6413b682c38e11cdbb54f9cca5f02e388048a0b6a011e1002d3f1ddf7d0a75",
+    "archive": "12_NeZabiray_10-18.zip"
+  },
+  {
+    "path": "assets/audio/alb04-12.mp3",
+    "bytes": 9270224,
+    "sha256": "122946493410d946d12f1248de145d0813e49b6c4fce1c6b08333f8e4e51450d",
+    "archive": "12_NeZabiray_10-18.zip"
+  },
+  {
+    "path": "assets/audio/alb04-13.mp3",
+    "bytes": 4987225,
+    "sha256": "36b9f97b294d13401da8c73cc3d8a1622419ecd4d1279aa616bba7591fd7366c",
+    "archive": "12_NeZabiray_10-18.zip"
+  },
+  {
+    "path": "assets/audio/alb04-14.mp3",
+    "bytes": 12016209,
+    "sha256": "658d2bfe5964cb9435cfa1789636b92975574b930d21ad14ca0712c292563ab1",
+    "archive": "12_NeZabiray_10-18.zip"
+  },
+  {
+    "path": "assets/audio/alb04-15.mp3",
+    "bytes": 5143913,
+    "sha256": "3f45307b6e818c72adcba5939bee1164b632f43e92c149e0ef5aa307ebbdedbc",
+    "archive": "12_NeZabiray_10-18.zip"
+  },
+  {
+    "path": "assets/audio/alb04-16.mp3",
+    "bytes": 8678837,
+    "sha256": "b9334de9b3fa1c4b9b0c92d209ef89da7b072b487d48dd25578ee6f11e94a71e",
+    "archive": "12_NeZabiray_10-18.zip"
+  },
+  {
+    "path": "assets/audio/alb04-17.mp3",
+    "bytes": 6759355,
+    "sha256": "c3a17e5d393a7e5524d345219d4ea27b1049fd504aa0a612244c86400b08f10e",
+    "archive": "12_NeZabiray_10-18.zip"
+  },
+  {
+    "path": "assets/audio/alb04-18.mp3",
+    "bytes": 4913011,
+    "sha256": "894140d5888f0de470c377c843d1f00d7a625e658a592619e10e8ef24d8b4dc6",
+    "archive": "12_NeZabiray_10-18.zip"
+  }
+]
